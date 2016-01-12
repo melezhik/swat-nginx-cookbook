@@ -1,0 +1,3 @@
+200 OK
+regexp: Server: nginx\/(\S+)
+validator: [ capture()->[0], "server version: ".(capture()->[0]) ]

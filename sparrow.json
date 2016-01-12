@@ -1,0 +1,7 @@
+{
+    "version": "0.0.1",
+    "name" : "swat-nginx-cookbook",
+    "description": "swat smoke tests for nginx cookbook",
+    "url" : "https://github.com/melezhik/swat-nginx-cookbook"
+}
+
